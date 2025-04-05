@@ -38,7 +38,7 @@
       &-2 {
         background-image: linear-gradient(
           to right bottom,
-          $color-primary-light,
+          $color-light,
           $color-primary-dark
         );
       }
@@ -83,7 +83,7 @@
     &--2 {
       background-image: linear-gradient(
           to right bottom,
-          $color-primary-light,
+          $color-light,
           $color-primary-dark
         ),
         url(../img/nat-6.jpg);
@@ -127,7 +127,7 @@
     &--2 {
       background-image: linear-gradient(
         to right bottom,
-        rgba($color-primary-light, 0.85),
+        rgba($color-light, 0.85),
         rgba($color-primary-dark, 0.85)
       );
     }
